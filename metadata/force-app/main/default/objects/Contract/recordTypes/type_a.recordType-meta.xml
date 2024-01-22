@@ -4,24 +4,6 @@
     <active>true</active>
     <label>type a</label>
     <picklistValues>
-        <picklist>SBQQ__AmendmentRenewalBehavior__c</picklist>
-        <values>
-            <fullName>Earliest End Date</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Latest End Date</fullName>
-            <default>true</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
-        <picklist>SBQQ__MDQRenewalBehavior__c</picklist>
-        <values>
-            <fullName>De-segmented</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>Status</picklist>
         <values>
             <fullName>Activated</fullName>
