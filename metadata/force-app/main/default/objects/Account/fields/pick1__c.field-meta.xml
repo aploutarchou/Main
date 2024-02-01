@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>pick1__c</fullName>
     <externalId>false</externalId>
-    <label>picksimple</label>
+    <label>pick1</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Picklist</type>
@@ -11,24 +11,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>first</fullName>
+                <fullName>A</fullName>
                 <default>false</default>
-                <label>first</label>
-            </value>
-            <value>
-                <fullName>second</fullName>
-                <default>false</default>
-                <label>second</label>
-            </value>
-            <value>
-                <fullName>another one</fullName>
-                <default>false</default>
-                <label>another one</label>
-            </value>
-            <value>
-                <fullName>yes please</fullName>
-                <default>false</default>
-                <label>yes please</label>
+                <label>A</label>
             </value>
         </valueSetDefinition>
     </valueSet>

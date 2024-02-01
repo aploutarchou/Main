@@ -3,8 +3,4 @@
     <description>Admin user permissions across all Prodly AppOps objects.</description>
     <hasActivationRequired>false</hasActivationRequired>
     <label>Prodly AppOps Admin Cloned</label>
-    <userPermissions>
-        <enabled>true</enabled>
-        <name>ViewEncryptedData</name>
-    </userPermissions>
 </PermissionSet>
