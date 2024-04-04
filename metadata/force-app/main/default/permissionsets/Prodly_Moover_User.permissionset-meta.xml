@@ -408,7 +408,7 @@
         <enabled>true</enabled>
         <name>PDRI__ReplicateIt_Settings__c</name>
     </customSettingAccesses>
-    <description>Standard user permissions across all Prodly objects except creating         connections and view/modify all permissions across all other Prodly objects.</description>
+    <description>Constant changes for testing purposes</description>
     <fieldPermissions>
         <editable>true</editable>
         <field>PDRI__BaselineTarget__c.PDRI__RecordId__c</field>
@@ -987,6 +987,26 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>PDRI__Deployment_Batch_Result__c.PDRI__Upsert_Method_Used__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>PDRI__Deployment_Bundle__c.PDRI__Description__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>PDRI__Deployment_Bundle__c.PDRI__Metadata_Rollback_On_Failure__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>PDRI__Deployment_Bundle__c.PDRI__Origin__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>PDRI__Deployment_Bundle__c.PDRI__Skip_Data_On_Metadata_Failure__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -1671,6 +1691,16 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>PDRI__Metadata_Bundle__c.PDRI__Comparison_ID__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>PDRI__Metadata_Bundle__c.PDRI__Metadata_Filter__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>PDRI__Metadata_Component_Deployment_Result__c.PDRI__Component_Id__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -2075,7 +2105,7 @@
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
-    <label>Prodly User Object</label>
+    <label>Prodly User Modif</label>
     <objectPermissions>
         <allowCreate>true</allowCreate>
         <allowDelete>true</allowDelete>
@@ -2171,6 +2201,15 @@
         <allowDelete>true</allowDelete>
         <allowEdit>true</allowEdit>
         <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>PDRI__Deployment_Bundle__c</object>
+        <viewAllRecords>true</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>PDRI__Deployment_Data_Set_Result__c</object>
         <viewAllRecords>false</viewAllRecords>
@@ -2246,15 +2285,6 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>PDRI__Deployment__c</object>
         <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>true</allowCreate>
-        <allowDelete>true</allowDelete>
-        <allowEdit>true</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>true</modifyAllRecords>
-        <object>PDRI__Engagement_Membership__c</object>
-        <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>
@@ -2340,7 +2370,7 @@
     <objectPermissions>
         <allowCreate>false</allowCreate>
         <allowDelete>false</allowDelete>
-        <allowEdit>true</allowEdit>
+        <allowEdit>false</allowEdit>
         <allowRead>true</allowRead>
         <modifyAllRecords>false</modifyAllRecords>
         <object>PDRI__Managed_Environment__c</object>
@@ -2372,6 +2402,15 @@
         <modifyAllRecords>false</modifyAllRecords>
         <object>PDRI__Managed_Relationship__c</object>
         <viewAllRecords>false</viewAllRecords>
+    </objectPermissions>
+    <objectPermissions>
+        <allowCreate>true</allowCreate>
+        <allowDelete>true</allowDelete>
+        <allowEdit>true</allowEdit>
+        <allowRead>true</allowRead>
+        <modifyAllRecords>true</modifyAllRecords>
+        <object>PDRI__Metadata_Bundle__c</object>
+        <viewAllRecords>true</viewAllRecords>
     </objectPermissions>
     <objectPermissions>
         <allowCreate>true</allowCreate>

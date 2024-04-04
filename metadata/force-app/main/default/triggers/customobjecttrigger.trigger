@@ -1,0 +1,1 @@
+trigger customobjecttrigger on X12_14__c (after insert){}
