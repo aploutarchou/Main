@@ -50,6 +50,10 @@
                 <behavior>Edit</behavior>
                 <field>test_picklist_780__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>Test_Dummy_Object__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns/>
         <style>TwoColumnsLeftToRight</style>
