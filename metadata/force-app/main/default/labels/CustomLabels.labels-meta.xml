@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Label8</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label8</shortDescription>
+        <value>123</value>
+    </labels>
+    <labels>
+        <fullName>Label_1_Test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 1 Test</shortDescription>
+        <value>1</value>
+    </labels>
+    <labels>
+        <fullName>Label_2_Test</fullName>
+        <categories>md</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 2 Test</shortDescription>
+        <value>md</value>
+    </labels>
+    <labels>
+        <fullName>Label_3_Test</fullName>
+        <categories>le</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 3 Test</shortDescription>
+        <value>le</value>
+    </labels>
+    <labels>
+        <fullName>Label_4_Test</fullName>
+        <categories>md</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 4 Test</shortDescription>
+        <value>md</value>
+    </labels>
+    <labels>
+        <fullName>Label_5_Test</fullName>
+        <categories>md</categories>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 5 Test</shortDescription>
+        <value>md</value>
+    </labels>
+    <labels>
+        <fullName>Label_6_Test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 6 Test</shortDescription>
+        <value>ro</value>
+    </labels>
+    <labels>
+        <fullName>Label_7_Test</fullName>
+        <language>en_US</language>
+        <protected>false</protected>
+        <shortDescription>Label 7 Test</shortDescription>
+        <value>md</value>
+    </labels>
+</CustomLabels>

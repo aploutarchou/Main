@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BlacklistedConsumer xmlns="http://soap.sforce.com/2006/04/metadata">
+    <blockedByApiWhitelisting>false</blockedByApiWhitelisting>
+    <consumerKey>3MVG9A2kN3Bn17ht6SOom7y5d9CZGF0Yy910Ha2RBFhTOy3kiOdEBGQ69Ylr69K6TDRr22.HH0N46vHjh9ZEk</consumerKey>
+    <consumerName>Prodly Deployment</consumerName>
+    <masterLabel>BlacklistedConsumer2780113644582917</masterLabel>
+</BlacklistedConsumer>
