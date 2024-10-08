@@ -1,0 +1,13 @@
+Guid,Name,SBQQ__Category__c,SBQQ__ConfigurationFieldSet__c,SBQQ__ConfiguredSKU__c,SBQQ__DiscountSchedule__c,SBQQ__DynamicProductFilterFieldSet__c,SBQQ__DynamicProductLookupFieldSet__c,SBQQ__MaxOptionCount__c,SBQQ__MinOptionCount__c,SBQQ__Number__c,SBQQ__OptionSelectionMethod__c
+5b3be055-0edc-4602-86ce-a07c6f2173aa,Beverages,#N/A,#N/A,9bd17e39-9170-45df-9643-52ea87ac0e4f,#N/A,#N/A,#N/A,#N/A,1.0,10.0,#N/A
+d5b82039-ad62-4f58-aef4-c0c445edecc3,Beverages,#N/A,#N/A,9bd17e39-9170-45df-9643-52ea87ac0e4f,#N/A,#N/A,#N/A,#N/A,1.0,10.0,#N/A
+68cded42-b2a7-44d1-bf46-4782a5a4d5f2,Services,#N/A,#N/A,6360a62b-6c28-4fff-a738-7beee20745a8,#N/A,#N/A,#N/A,#N/A,0.0,11.0,#N/A
+d655ff6e-afe8-4d71-9808-66bed779e07e,Beverages,#N/A,#N/A,6360a62b-6c28-4fff-a738-7beee20745a8,#N/A,#N/A,#N/A,#N/A,1.0,10.0,#N/A
+1d167b12-0ae0-4dba-a42d-b7823d11de4c,Beverages,#N/A,#N/A,6360a62b-6c28-4fff-a738-7beee20745a8,#N/A,#N/A,#N/A,#N/A,1.0,10.0,#N/A
+88578634-bb14-43ab-88a2-c0a0876645f6,Equipment,#N/A,#N/A,6360a62b-6c28-4fff-a738-7beee20745a8,#N/A,#N/A,#N/A,#N/A,1.0,12.0,#N/A
+b1605c79-dc9c-4a85-b79b-6070e7d13270,Services,#N/A,#N/A,9bd17e39-9170-45df-9643-52ea87ac0e4f,#N/A,#N/A,#N/A,#N/A,1.0,11.0,#N/A
+b547e20f-bf93-4987-b188-8c700f149598,Equipment,#N/A,#N/A,9bd17e39-9170-45df-9643-52ea87ac0e4f,#N/A,#N/A,#N/A,#N/A,1.0,12.0,#N/A
+c7988c74-b1ab-4e17-ae41-fa0badfe0b6d,Equipment,#N/A,#N/A,9bd17e39-9170-45df-9643-52ea87ac0e4f,#N/A,#N/A,#N/A,#N/A,1.0,12.0,#N/A
+cae320a6-d585-4bd9-a343-a3c72e4276e3,Equipment,#N/A,#N/A,6360a62b-6c28-4fff-a738-7beee20745a8,#N/A,#N/A,#N/A,#N/A,1.0,12.0,#N/A
+bda87fab-ad13-4dcc-a4e1-9e6a2560e096,Services,#N/A,#N/A,9bd17e39-9170-45df-9643-52ea87ac0e4f,#N/A,#N/A,#N/A,#N/A,1.0,11.0,#N/A
+ff9f5737-c140-44b1-abf6-f08195903f90,Services,#N/A,#N/A,6360a62b-6c28-4fff-a738-7beee20745a8,#N/A,#N/A,#N/A,#N/A,0.0,11.0,#N/A
